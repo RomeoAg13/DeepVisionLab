@@ -1,0 +1,19 @@
+# Large data archives
+data/cifar-10-python.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.pt
+*.pth
+*.h5
+*.ckpt
